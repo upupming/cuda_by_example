@@ -60,3 +60,24 @@ int main(void) {
         printf("\n");
     }
 }
+/*
+   --- General Information for device 0 ---
+Name:  GeForce GTX 980 Ti
+Compute capability:  5.2
+Clock rate:  1354500
+Device copy overlap:  Enabled
+Kernel execution timeout :  Enabled
+   --- Memory Information for device 0 ---
+Total global mem:  6442450944
+Total constant Mem:  65536
+Max mem pitch:  2147483647
+Texture Alignment:  512
+   --- MP Information for device 0 ---
+Multiprocessor count:  22
+Shared mem per mp:  49152
+Registers per mp:  65536
+Threads in warp:  32
+Max threads per block:  1024
+Max thread dimensions:  (1024, 1024, 64)
+Max grid dimensions:  (2147483647, 65535, 65535)
+*/
